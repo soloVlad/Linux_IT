@@ -1,0 +1,2 @@
+ps -U vlad
+ps -U vlad -u -x

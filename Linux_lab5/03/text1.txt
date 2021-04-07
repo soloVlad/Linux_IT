@@ -1,0 +1,2 @@
+Some text to test concat program1
+And some more from the first file
